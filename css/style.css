@@ -9,6 +9,11 @@ nav {
     margin: 0px;
 }
 
+img {
+    width: 100%;
+    margin-bottom: -4px;
+}
+
 .name {
     border: 4px solid #333333;
     width: 150px;
@@ -54,3 +59,17 @@ nav {
 .navbar > ul > li:hover {
     background-color: #fff8ee;
 }
+
+.introduction {
+    margin: 3% 5% 2% 25%;
+}
+
+.profile-pic {
+    width: 10%;
+    height: 10%;
+    border: solid 3px #333333;
+    box-shadow: 21px 14px 4px #3535354f;
+    border-radius: 40px;
+    contain: content;
+}
+
